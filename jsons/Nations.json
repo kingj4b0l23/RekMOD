@@ -723,6 +723,7 @@
         "uniqueName": "Art of War",
         "uniques": [
             "Great General provides double combat bonus",
+            "Can build [all] improvements at a [+25]% rate",
             "[Great General] is earned [50]% faster"
         ],
         "cities": [
@@ -1008,6 +1009,7 @@
         "innerColor": [60,60,60],
         "uniqueName": "Precision Engineering",
         "uniques": [
+            "Can build [all] improvements at a [+25]% rate",
             "[+1 Science, +1 Production] from every [Windmill]",
             "[+1 Science, +1 Production] from every [Workshop]",
             "[+1 Science, +1 Production] from every [Factory]",
@@ -1496,6 +1498,7 @@
         "uniqueName": "Bushido",
         "uniques": [
             "No damage penalty for wounded units <for [All] units>",
+            "Can build [all] improvements at a [+25]% rate",
             "[+1 Culture] from every [Fishing Boats]",
             "[+2 Culture] from every [Atoll]"
         ],
