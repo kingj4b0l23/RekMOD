@@ -84,7 +84,7 @@
         "startingWorkerCount": 2,
         "startingMilitaryUnitCount": 5,
         "startingMilitaryUnit": "Musketman",
-        "startingGold": 100,
+        "startingGold": 5000,
         "startingCulture": 400,
         "settlerPopulation": 3,
         "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
