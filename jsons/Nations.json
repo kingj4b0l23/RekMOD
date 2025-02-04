@@ -1017,12 +1017,12 @@
         "innerColor": [60,60,60],
         "uniqueName": "Precision Engineering",
         "uniques": [
-            "Can build [all] improvements at a [+25]% rate",
-            "[+1 Science, +1 Production] from every [Windmill]",
-            "[+1 Science, +1 Production] from every [Workshop]",
-            "[+1 Science, +1 Production] from every [Factory]",
-            "[+1 Science, +1 Production] from every [Hydro Plant]",
-            "[Great Engineer] is earned [33]% faster"
+            "Can build [all] improvements at a [+35]% rate",
+            "[+2 Science, +1 Production] from every [Windmill]",
+            "[+2 Science, +1 Production] from every [Workshop]",
+            "[+3 Science, +1 Production] from every [Factory]",
+            "[+3 Science, +1 Production] from every [Hydro Plant]",
+            "[Great Engineer] is earned [50]% faster"
         ],
         "cities": [
             "Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
@@ -2548,6 +2548,7 @@
         "uniqueName": "Siberian Riches",
         "uniques": [
             "[+1 Production] from every [Strategic resource]",
+            "[-50]% Gold cost of acquiring tiles [in all cities]"
             "[-50]% Culture cost of natural border growth [in all cities]"
             "Double quantity of [Horses] produced",
             "Double quantity of [Iron] produced",
