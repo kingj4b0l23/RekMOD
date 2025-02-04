@@ -628,6 +628,7 @@
         "uniqueName": "Canadian Fur Trade",
         "uniques": [
             "[+2 Gold] from every [Camp]",
+            "[+20]% [Culture] [in all cities]"
             "[-25]% Gold cost of acquiring tiles [in all cities]"
             "[+10]% growth [in all cities]",
             "Can build [all] improvements at a [+25]% rate",
@@ -727,6 +728,8 @@
         "uniqueName": "Art of War",
         "uniques": [
             "[+15]% growth [in all cities]",
+            "[+1 Production] per [3] population [in all cities]"
+            "[+2 Production] from every [Pasture]",
             "Great General provides double combat bonus",
             "Can build [all] improvements at a [+25]% rate",
             "[Great General] is earned [50]% faster"
@@ -1019,6 +1022,7 @@
         "uniqueName": "Precision Engineering",
         "uniques": [
             "Can build [all] improvements at a [+35]% rate",
+            "[+10]% [Science] [in all cities]"
             "[+2 Science, +1 Production] from every [Windmill]",
             "[+2 Science, +1 Production] from every [Workshop]",
             "[+3 Science, +1 Production] from every [Factory]",
@@ -1280,6 +1284,7 @@
         "uniqueName": "Population Growth",
         "uniques": [
             "[+100]% unhappiness from the number of cities",
+            "[+1 Production] per [3] population [in all cities]"
             "[-50]% Unhappiness from [Population] [in all cities]"
         ],
         "cities": [
@@ -2549,6 +2554,7 @@
         "uniqueName": "Siberian Riches",
         "uniques": [
             "[+1 Production] from every [Strategic resource]",
+            "[+20]% [Culture] [in all cities]"
             "[-50]% Gold cost of acquiring tiles [in all cities]"
             "[-50]% Culture cost of natural border growth [in all cities]"
             "Double quantity of [Horses] produced",
