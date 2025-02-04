@@ -628,6 +628,7 @@
         "uniqueName": "Canadian Fur Trade",
         "uniques": [
             "[+2 Gold] from every [Camp]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]"
             "[+10]% growth [in all cities]",
             "Can build [all] improvements at a [+25]% rate",
             "[+2 Gold, +1 Culture] from every [Lakes]"
