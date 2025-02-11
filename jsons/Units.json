@@ -45,7 +45,7 @@
     {
         "name": "Settler",
         "unitType": "Civilian",
-        "movement": 2,
+        "movement": 4,
         "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
@@ -87,7 +87,7 @@
     {
         "name": "Scout",
         "unitType": "Scout",
-        "movement": 5,
+        "movement": 6,
         "strength": 5,
         "cost": 25,
         "obsoleteTech": "Steam Power",
