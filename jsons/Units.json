@@ -2139,6 +2139,7 @@
             "Unable to capture cities",
             "Unable to pillage tiles",
             "Cannot attack",
+            "Can carry [5] [Land] units",
             "[+2] Sight",
             "May upgrade to [Airship] through ruins-like effects"
         ],
@@ -2732,6 +2733,7 @@
         "requiredResource": "Aluminum",
         "uniques": [
             "[+200]% Strength <vs [Armored] units>",
+            "Can carry [5] [Land] units",
             "No defensive terrain bonus",
             "Can move after attacking",
             "Unable to capture cities",
